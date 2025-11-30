@@ -442,5 +442,3 @@ When working with any real website:
 Data Science undergraduate passionate about AI, NLP, and building data-driven products.
 
 ```
-
-
